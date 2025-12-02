@@ -3,7 +3,7 @@
 """
 Receipt Product Classifier using OpenAI GPT-4o Vision API - RATE LIMIT SAFE
 Created on Mon Dec 01 2025
-@author: raine
+@author: arttu ja raine
 """
 from pathlib import Path
 import pandas as pd

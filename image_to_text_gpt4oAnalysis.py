@@ -3,7 +3,7 @@
 """
 Receipt Product Classifier using OpenAI API
 Created on Mon Sep 29 13:25:57 2025
-@author: raine
+@author: arttu ja raine
 """
 from PIL import Image
 import os
